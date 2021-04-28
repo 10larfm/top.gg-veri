@@ -1,0 +1,15 @@
+{
+  "name": "top.gg",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "edip",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "topgg-autoposter": "^1.1.9"
+  }
+}
